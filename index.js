@@ -26,7 +26,7 @@
   } else if(date ===3) {
     console.log('Hom nay la thu 3');
   }else if (date ===4) {
-    console.log('Hom nay la thu 4')
+    console.log('Hom nay la thu 5')
   } else{
     console.log('Khong Biet')
   }
